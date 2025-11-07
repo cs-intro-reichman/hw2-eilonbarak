@@ -28,7 +28,7 @@ public class Cheers {
                 System.out.print("Give me an " + ch + ": ");
             } else {
                 
-                System.out.print("Give me a " + ch + ": ");
+                System.out.print("Give me a  " + ch + ": ");
             }
             
             System.out.println(ch + "!");
@@ -39,7 +39,7 @@ public class Cheers {
 
          for (int n = 0; n < Counter; n++){
 
-                System.out.println(upperWord+ " !!!");
+                System.out.println(upperWord+ "!!!");
 
         }
 	    
