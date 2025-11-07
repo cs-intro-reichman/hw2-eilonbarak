@@ -41,10 +41,10 @@ public class Collatz {
 
 	}
 
-	System.out.println("\nEvery one of the first "+num+" hailstone sequences reached 1.");
+	System.out.print("\nEvery one of the first "+num+" hailstone sequences reached 1.");
 	} else {
 
-			System.out.println("\nEvery one of the first "+num+" hailstone sequences reached 1.");
+			System.out.print("\nEvery one of the first "+num+" hailstone sequences reached 1.");
 	}
 	
 
